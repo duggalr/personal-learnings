@@ -1,4 +1,4 @@
 .env
 .DS_Store
 todo.txt
-c_stuff/books
+books/
